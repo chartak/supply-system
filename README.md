@@ -37,17 +37,17 @@ Notifications (email / push)
 
 Data validation & security
 
-🛠 Tech Stack (example)
+🛠 Tech Stack
 
-Frontend: React / Vue / Angular
+Frontend: Jquery / Bootstrap / ajax
 
-Backend: Node.js (NestJS / Express) / Django / Spring Boot
+Backend: Laravel (PHP)
 
-Database: PostgreSQL / MySQL / MongoDB
+Database: MySQL
 
 Auth: JWT / OAuth 2.0
 
-Deployment: Docker, Nginx
+Deployment: Apache
 
 CI/CD: GitHub Actions
 
