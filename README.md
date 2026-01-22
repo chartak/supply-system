@@ -86,7 +86,7 @@ Scalable and maintainable
 
 📌 Project Goal
 
-Build a secure, scalable, and user-friendly platform for direct interaction between suppliers and clients.
+Build a secure, scalable, and user-friendly platform for direct interaction between suppliers and clients for internal use.
 
 ## 📌 Project Status
 ✔ Completed  
