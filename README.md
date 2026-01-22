@@ -39,12 +39,19 @@ Notifications (email / push)
 
 Data validation & security
 
+week orders  list
+<img width="1894" height="843" alt="week-orders" src="https://github.com/user-attachments/assets/9397d514-fddb-4c00-8611-0193211bbe5f" />
+week order item list
+<img width="1914" height="956" alt="woi" src="https://github.com/user-attachments/assets/982fd75e-a43c-4615-943d-ad889cf73680" />
+week report of customers list for supplier 
+<img width="1917" height="963" alt="wo-report" src="https://github.com/user-attachments/assets/98920a48-0e0f-4ee5-850a-e4fcc89cae83" />
+
 🛠 Technology Stack
 Backend
 
 PHP 8+
 
-Laravel Framework
+Laravel Framework 10
 
 Eloquent ORM
 
