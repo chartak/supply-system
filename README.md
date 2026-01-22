@@ -1,6 +1,11 @@
-📦 Full-Cycle Web Application (Supplier → Clients)
+📦 Supplier–Customer Collaboration System (Supplier → Clients)
 
 A full-cycle web application enabling seamless interaction between suppliers and clients, covering everything from product management to order processing and analytics.
+
+Description
+
+This project is a web-based system designed to manage collaboration between suppliers and customer institutions (schools, kindergartens, social centers).
+It enables contract-based supply management for food, household goods, and dairy products, supporting weekly orders, automatic quantity deduction from annual contracts, inventory control, and detailed reporting.
 
 🚀 Key Features
 Supplier
@@ -37,17 +42,30 @@ Notifications (email / push)
 
 Data validation & security
 
-🛠 Tech Stack
+🛠 Technology Stack
+Backend
 
-Frontend: Jquery / Bootstrap / ajax
+PHP 8+
 
-Backend: Laravel (PHP)
+Laravel Framework
 
-Database: MySQL
+Eloquent ORM
 
-Auth: JWT / OAuth 2.0
+Frontend
 
-Deployment: Apache
+Bootstrap (responsive UI)
+
+jQuery
+
+AJAX (asynchronous data loading and form submissions)
+
+Database
+
+MySQL
+
+Web Server
+
+Apache
 
 CI/CD: GitHub Actions
 
